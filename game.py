@@ -53,8 +53,7 @@ def game():
               time.sleep(2)
               print ("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
               print ("               Wooshhh!!!                   ")
-              print ("   YOU MUST HIT ABOVE A 5 TO KILL THE MONSTER    ")
-              print ("IF THE MONSTER HITS HIGHER THAN YOU, YOU WILL DIE")
+           
               print ("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
               time.sleep(2)
               fdmg1 = int(random.randint(4, 9))
@@ -83,8 +82,7 @@ def game():
                 time.sleep(2)
                 print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
                 print ("                  Fighting...                   ")
-                print ("   YOU MUST HIT ABOVE A 5 TO KILL THE MONSTER   ")
-                print ("IF THE MONSTER HITS HIGHER THAN YOU, YOU WILL DIE")
+               
                 print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
                 time.sleep(2)
                 fdmg1 = int(random.randint(2, 7))
