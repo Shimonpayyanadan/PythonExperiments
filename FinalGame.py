@@ -100,9 +100,6 @@ def collision(x,y,ex,ey):
     if ply_rect.colliderect(eny_rect):
         return True
 
-
-
-
 #Starting code
 print("\t**********************************************")
 print("\t\t***********WELCOME*************\n\n")
